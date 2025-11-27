@@ -103,11 +103,11 @@ Basado en la respuesta, iterar hartas veces, revisar info, chatear con la LLM pa
 
 3. **Convertir a Markdown:** Usar [word2md.com](https://word2md.com/)
 
-4. **Crear inventario inicial:** Adaptar y ejecutar [create_inventory_from_sources](.augment/tasks/create_inventory_from_sources.md)
+4. **Crear inventario inicial:** Adaptar (si es necesario) y ejecutar [create_inventory_from_sources](.augment/tasks/create_inventory_from_sources.md)
 
-5. **Actualizar inventario:** Ejecutar [update_inventory](.augment/tasks/update_inventory.md)
+5. **Actualizar inventario:** Adaptar (si es necesario) Ejecutar [update_inventory](.augment/tasks/update_inventory.md)
 
-6. **Completar información faltante con búsquedas web:** Ejecutar [update_inventory_from_web](.augment/tasks/update_inventory_from_web.md)
+6. **Completar información faltante con búsquedas web:** Adaptar (si es necesario) Ejecutar [update_inventory_from_web](.augment/tasks/update_inventory_from_web.md)
 
 7. **Iterar** como sea necesario (yo ejecuté 1 vez el `update_inventory` y 1 vez el `update_inventory_from_web`)
 
