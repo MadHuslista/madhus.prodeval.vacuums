@@ -8,11 +8,11 @@
 
 ### Top 3 Recomendaciones
 
-| Ranking | Modelo | Precio | Por qué elegirlo |
-|---------|--------|--------|------------------|
-| 🥇 **#1** | **Roborock Q8 Max+** | ~$600,000 [3][4][8] | Mejor equilibrio: soporte oficial Chile, 180min batería, autovaciado, Alexa/Google, mopa segura para vinílico |
-| 🥈 **#2** | **Dreame L10s Ultra** | ~$690,000 [8] | Superior fregado con mopas giratorias DuoScrub™, 210min batería, máxima automatización |
-| 🥉 **#3** | **Xiaomi X20 Max** | ~$560,000 [3][4][8] | Mejor valor/precio, mopas giratorias, base completa, pero con reportes de fallas [9] |
+| Ranking  | Modelo                | Precio              | Por qué elegirlo                                                                                              |
+| -------- | --------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 🥇 **#1** | **Roborock Q8 Max+**  | ~$600,000 [3][4][8] | Mejor equilibrio: soporte oficial Chile, 180min batería, autovaciado, Alexa/Google, mopa segura para vinílico |
+| 🥈 **#2** | **Dreame L10s Ultra** | ~$690,000 [8]       | Superior fregado con mopas giratorias DuoScrub™, 210min batería, máxima automatización                        |
+| 🥉 **#3** | **Xiaomi X20 Max**    | ~$560,000 [3][4][8] | Mejor valor/precio, mopas giratorias, base completa, pero con reportes de fallas [9]                          |
 
 **Veredicto Final:** El **Roborock Q8 Max+** es la opción más segura y equilibrada para tu caso de uso específico.
 
@@ -22,31 +22,31 @@
 
 ### Criterios de Evaluación (Pesos)
 
-| Criterio | Peso | Descripción |
-|----------|------|-------------|
-| Seguridad Vinílico | 25% | Sin riesgo de daño por agua o rayones |
-| Sistema Fregado | 20% | Giratorio > Vibratorio > Estático |
-| Automatización | 15% | Autovaciado, autolimpieza mopas |
-| Batería ≥90min | 15% | Cubre 80m² en una sesión |
-| Smart Home | 10% | Alexa/Google/Home Assistant |
-| Disponibilidad Chile | 10% | Soporte local, garantía |
-| Relación Calidad/Precio | 5% | Valor por dinero |
+| Criterio                | Peso | Descripción                           |
+| ----------------------- | ---- | ------------------------------------- |
+| Seguridad Vinílico      | 25%  | Sin riesgo de daño por agua o rayones |
+| Sistema Fregado         | 20%  | Giratorio > Vibratorio > Estático     |
+| Automatización          | 15%  | Autovaciado, autolimpieza mopas       |
+| Batería ≥90min          | 15%  | Cubre 80m² en una sesión              |
+| Smart Home              | 10%  | Alexa/Google/Home Assistant           |
+| Disponibilidad Chile    | 10%  | Soporte local, garantía               |
+| Relación Calidad/Precio | 5%   | Valor por dinero                      |
 
 ### Clasificación por Tier
 
-| Tier | Modelo | Precio CLP | Succión | Batería | Fregado | Smart Home | Disponibilidad |
-|------|--------|------------|---------|---------|---------|------------|----------------|
-| **S** | Roborock Q8 Max+ | ~$600,000 [3][4][8] | 5,500 Pa | 180 min ✅ | Estática+elevación [8] | Alexa, Google [W15] | ✅ Oficial [8] |
-| **S** | Dreame L10s Ultra | ~$690,000 [8] | 5,300 Pa | 210 min ✅ | Giratorias DuoScrub™ [1][2] | Alexa [W13] | ⚠️ Importación [8] |
-| **A** | Roborock Q Revo | $600,000-$700,000 [1][3] | 5,500 Pa | ~180 min | Giratorias duales [1] | Sí [1] | ✅ Chile [1][3] |
-| **A** | Xiaomi X20 Max | ~$560,000 [3][4][8] | 8,000 Pa | 120 min ✅ | Giratorias+extensible [7][8] | Alexa, Google [W14] | ✅ Emergente [8][9] |
-| **B** | Roborock Q7 Max+ | $350,000-$480,000 [6][7] | 4,200 Pa | 180 min ✅ | Húmeda 30 niveles [7] | Alexa, Google [7] | ✅ Chile [6][7] |
-| **B** | Ecovacs N20e Plus | $390,000-$420,000 [7] | 8,000-10,000 Pa | 300 min ✅ | OZMO 3 niveles [7] | Sí [7] | ⚠️ Import [5][7] |
-| **B** | iRobot Combo j5+ | $400,000-$500,000 [4] | 4,000 Pa | ~90 min | Fija [4] | Alexa, Google [4] | ✅✅ Mejor [4] |
-| **C** | Xiaomi Vacuum Mop 2 Ultra | ~$350,000 [5] | 4,000 Pa | ~120 min | Vibratoria [5] | Sí [5] | ✅ Chile [5] |
-| **C** | Dreame D9 Max Gen 2 | $340,000-$370,000 [7] | 6,000 Pa | 285 min ✅ | Húmeda 3 niveles [7] | Sí [7] | ⚠️ Import [5][7] |
-| **D** | Lefant M1 | ~$150,000 [5] | 4,000 Pa | ~90 min | Fija [5] | Sí [5] | ⚠️ Import [5] |
-| **D** | Cecotec Conga 2490 | $120,000-$150,000 [6] | 2,700 Pa | ~90 min | Fija [6] | Sí [6] | ⚠️ Import [6] |
+| Tier  | Modelo                    | Precio CLP               | Succión         | Batería   | Fregado                      | Smart Home          | Disponibilidad     |
+| ----- | ------------------------- | ------------------------ | --------------- | --------- | ---------------------------- | ------------------- | ------------------ |
+| **S** | Roborock Q8 Max+          | ~$600,000 [3][4][8]      | 5,500 Pa        | 180 min ✅ | Estática+elevación [8]       | Alexa, Google [W15] | ✅ Oficial [8]      |
+| **S** | Dreame L10s Ultra         | ~$690,000 [8]            | 5,300 Pa        | 210 min ✅ | Giratorias DuoScrub™ [1][2]  | Alexa [W13]         | ⚠️ Importación [8]  |
+| **A** | Roborock Q Revo           | $600,000-$700,000 [1][3] | 5,500 Pa        | ~180 min  | Giratorias duales [1]        | Sí [1]              | ✅ Chile [1][3]     |
+| **A** | Xiaomi X20 Max            | ~$560,000 [3][4][8]      | 8,000 Pa        | 120 min ✅ | Giratorias+extensible [7][8] | Alexa, Google [W14] | ✅ Emergente [8][9] |
+| **B** | Roborock Q7 Max+          | $350,000-$480,000 [6][7] | 4,200 Pa        | 180 min ✅ | Húmeda 30 niveles [7]        | Alexa, Google [7]   | ✅ Chile [6][7]     |
+| **B** | Ecovacs N20e Plus         | $390,000-$420,000 [7]    | 8,000-10,000 Pa | 300 min ✅ | OZMO 3 niveles [7]           | Sí [7]              | ⚠️ Import [5][7]    |
+| **B** | iRobot Combo j5+          | $400,000-$500,000 [4]    | 4,000 Pa        | ~90 min   | Fija [4]                     | Alexa, Google [4]   | ✅✅ Mejor [4]       |
+| **C** | Xiaomi Vacuum Mop 2 Ultra | ~$350,000 [5]            | 4,000 Pa        | ~120 min  | Vibratoria [5]               | Sí [5]              | ✅ Chile [5]        |
+| **C** | Dreame D9 Max Gen 2       | $340,000-$370,000 [7]    | 6,000 Pa        | 285 min ✅ | Húmeda 3 niveles [7]         | Sí [7]              | ⚠️ Import [5][7]    |
+| **D** | Lefant M1                 | ~$150,000 [5]            | 4,000 Pa        | ~90 min   | Fija [5]                     | Sí [5]              | ⚠️ Import [5]       |
+| **D** | Cecotec Conga 2490        | $120,000-$150,000 [6]    | 2,700 Pa        | ~90 min   | Fija [6]                     | Sí [6]              | ⚠️ Import [6]       |
 
 **Leyenda Tier:**
 - **S**: Excelente - Cumple todos los requisitos perfectamente
@@ -63,17 +63,17 @@
 
 #### 🥇 Roborock Q8 Max+ - **RECOMENDACIÓN PRINCIPAL**
 
-| Especificación | Valor | Evaluación |
-|----------------|-------|------------|
-| **Precio** | ~$600,000 CLP [3][4][8] | ✅ Dentro del presupuesto |
-| **Succión** | 5,500 Pa [3][4][8][W3] | ✅ Óptimo para vinílico (no excesivo) |
-| **Navegación** | LiDAR PreciSense [7][8] | ✅ Precisión milimétrica |
-| **Batería** | 180 min (~3h) [7] | ✅ Cubre 80m² × 2 pasadas |
-| **Tanque agua** | 0.35L [8] | ✅ Suficiente para 80m² |
-| **Autovaciado** | Sí, ~7 semanas [8] | ✅ Mínima intervención |
-| **Fregado** | Mopa estática + elevación automática [8][W3] | ⚠️ No giratorio, pero seguro |
-| **Smart Home** | Alexa, Google Home [W15] | ✅ Confirmado |
-| **Cepillos** | DuoRoller goma antirayado [8][W3] | ✅ Perfecto para vinílico |
+| Especificación  | Valor                                        | Evaluación                           |
+| --------------- | -------------------------------------------- | ------------------------------------ |
+| **Precio**      | ~$600,000 CLP [3][4][8]                      | ✅ Dentro del presupuesto             |
+| **Succión**     | 5,500 Pa [3][4][8][W3]                       | ✅ Óptimo para vinílico (no excesivo) |
+| **Navegación**  | LiDAR PreciSense [7][8]                      | ✅ Precisión milimétrica              |
+| **Batería**     | 180 min (~3h) [7]                            | ✅ Cubre 80m² × 2 pasadas             |
+| **Tanque agua** | 0.35L [8]                                    | ✅ Suficiente para 80m²               |
+| **Autovaciado** | Sí, ~7 semanas [8]                           | ✅ Mínima intervención                |
+| **Fregado**     | Mopa estática + elevación automática [8][W3] | ⚠️ No giratorio, pero seguro          |
+| **Smart Home**  | Alexa, Google Home [W15]                     | ✅ Confirmado                         |
+| **Cepillos**    | DuoRoller goma antirayado [8][W3]            | ✅ Perfecto para vinílico             |
 
 **Puntos Fuertes para Tu Caso:**
 - ✅ **Soporte oficial en Chile** con distribuidores autorizados [8]
@@ -99,17 +99,17 @@
 
 #### 🥈 Dreame L10s Ultra - **MEJOR FREGADO**
 
-| Especificación | Valor | Evaluación |
-|----------------|-------|------------|
-| **Precio** | ~$690,000 CLP [8] | ⚠️ Límite del presupuesto |
-| **Succión** | 5,300 Pa [8][W1] | ✅ Óptimo para vinílico |
-| **Navegación** | LiDAR + AI [8] | ✅ Evitación obstáculos |
-| **Batería** | 210 min (~3.5h) [W1] | ✅ Excelente autonomía |
-| **Tanque agua** | 0.08L robot + tanques base [W1] | ✅ Sistema completo |
-| **Autovaciado** | Sí + lavado/secado mopas [1][2][8] | ✅✅ Máxima automatización |
-| **Fregado** | Mopas giratorias DuoScrub™ [1][2][8] | ✅✅ Superior |
-| **Smart Home** | Alexa [W13] | ✅ Confirmado |
-| **Especial** | 32 niveles de humedad [1][8] | ✅ Control preciso vinílico |
+| Especificación  | Valor                                | Evaluación                 |
+| --------------- | ------------------------------------ | -------------------------- |
+| **Precio**      | ~$690,000 CLP [8]                    | ⚠️ Límite del presupuesto   |
+| **Succión**     | 5,300 Pa [8][W1]                     | ✅ Óptimo para vinílico     |
+| **Navegación**  | LiDAR + AI [8]                       | ✅ Evitación obstáculos     |
+| **Batería**     | 210 min (~3.5h) [W1]                 | ✅ Excelente autonomía      |
+| **Tanque agua** | 0.08L robot + tanques base [W1]      | ✅ Sistema completo         |
+| **Autovaciado** | Sí + lavado/secado mopas [1][2][8]   | ✅✅ Máxima automatización   |
+| **Fregado**     | Mopas giratorias DuoScrub™ [1][2][8] | ✅✅ Superior                |
+| **Smart Home**  | Alexa [W13]                          | ✅ Confirmado               |
+| **Especial**    | 32 niveles de humedad [1][8]         | ✅ Control preciso vinílico |
 
 **Puntos Fuertes para Tu Caso:**
 - ✅✅ **Mopas giratorias duales** - el mejor fregado del mercado [1][2][8]
@@ -141,14 +141,14 @@
 
 #### Roborock Q Revo / Q Revo S
 
-| Especificación | Valor | Evaluación |
-|----------------|-------|------------|
-| **Precio** | $600,000-$700,000 CLP [1][3] | ⚠️ Límite presupuesto |
-| **Succión** | 5,500 Pa [1][3] | ✅ Óptimo |
-| **Fregado** | Mopas giratorias duales [1][3] | ✅✅ Superior |
-| **Autovaciado** | Sí + lavado mopas [1][3] | ✅ Completo |
-| **Smart Home** | Sí [1][3] | ✅ Compatible |
-| **Chile** | Disponible [1][3] | ✅ Soporte |
+| Especificación  | Valor                          | Evaluación           |
+| --------------- | ------------------------------ | -------------------- |
+| **Precio**      | $600,000-$700,000 CLP [1][3]   | ⚠️ Límite presupuesto |
+| **Succión**     | 5,500 Pa [1][3]                | ✅ Óptimo             |
+| **Fregado**     | Mopas giratorias duales [1][3] | ✅✅ Superior          |
+| **Autovaciado** | Sí + lavado mopas [1][3]       | ✅ Completo           |
+| **Smart Home**  | Sí [1][3]                      | ✅ Compatible         |
+| **Chile**       | Disponible [1][3]              | ✅ Soporte            |
 
 **Por qué Tier A:** Combina las mopas giratorias del Dreame con el soporte de Roborock, pero a precio límite.
 
@@ -158,16 +158,16 @@
 
 #### Xiaomi X20 Max - **MEJOR VALOR**
 
-| Especificación | Valor | Evaluación |
-|----------------|-------|------------|
-| **Precio** | ~$560,000 CLP [3][4][8] | ✅ Buen precio |
-| **Succión** | 8,000 Pa [3][4][7][8][W2] | ⚠️ Alta (quizás excesiva) |
-| **Navegación** | LiDAR 360° + láser borde [7][8][W2] | ✅ Avanzada |
-| **Batería** | 120 min [W2] | ✅ Suficiente para 80m² |
-| **Fregado** | Giratorias + brazo extensible 40mm [7][8][W2] | ✅✅ Excelente |
-| **Autovaciado** | Omni Station completa [7][8][W2] | ✅✅ Todo incluido |
-| **Smart Home** | Alexa, Google Assistant [W14] | ✅ Confirmado |
-| **Chile** | Emergente, soporte mejorando [8][9] | ⚠️ En desarrollo |
+| Especificación  | Valor                                         | Evaluación               |
+| --------------- | --------------------------------------------- | ------------------------ |
+| **Precio**      | ~$560,000 CLP [3][4][8]                       | ✅ Buen precio            |
+| **Succión**     | 8,000 Pa [3][4][7][8][W2]                     | ⚠️ Alta (quizás excesiva) |
+| **Navegación**  | LiDAR 360° + láser borde [7][8][W2]           | ✅ Avanzada               |
+| **Batería**     | 120 min [W2]                                  | ✅ Suficiente para 80m²   |
+| **Fregado**     | Giratorias + brazo extensible 40mm [7][8][W2] | ✅✅ Excelente             |
+| **Autovaciado** | Omni Station completa [7][8][W2]              | ✅✅ Todo incluido         |
+| **Smart Home**  | Alexa, Google Assistant [W14]                 | ✅ Confirmado             |
+| **Chile**       | Emergente, soporte mejorando [8][9]           | ⚠️ En desarrollo          |
 
 **Puntos Fuertes:**
 - ✅ **Mejor relación valor/precio** del mercado [3][4][8]
@@ -194,14 +194,14 @@
 
 #### Roborock Q7 Max+ - **MEJOR GAMA MEDIA**
 
-| Especificación | Valor | Evaluación |
-|----------------|-------|------------|
-| **Precio** | $350,000-$480,000 CLP [6][7] | ✅✅ Excelente precio |
-| **Succión** | 4,200 Pa [6][7] | ✅ Ideal para vinílico |
-| **Batería** | 180 min [7] | ✅ Excelente |
-| **Fregado** | Húmeda 30 niveles [7] | ✅ Control preciso |
-| **Autovaciado** | Sí (Q7 Max+ incluye base) [6][7] | ✅ Incluido |
-| **Smart Home** | Alexa, Google [7] | ✅ Confirmado |
+| Especificación  | Valor                            | Evaluación            |
+| --------------- | -------------------------------- | --------------------- |
+| **Precio**      | $350,000-$480,000 CLP [6][7]     | ✅✅ Excelente precio   |
+| **Succión**     | 4,200 Pa [6][7]                  | ✅ Ideal para vinílico |
+| **Batería**     | 180 min [7]                      | ✅ Excelente           |
+| **Fregado**     | Húmeda 30 niveles [7]            | ✅ Control preciso     |
+| **Autovaciado** | Sí (Q7 Max+ incluye base) [6][7] | ✅ Incluido            |
+| **Smart Home**  | Alexa, Google [7]                | ✅ Confirmado          |
 
 **Por qué Tier B:** Generación anterior al Q8 Max+, pero excelente valor. La mopa es solo húmeda (no giratoria/vibratoria).
 
@@ -209,13 +209,13 @@
 
 #### iRobot Roomba Combo j5+ - **MEJOR SOPORTE LOCAL**
 
-| Especificación | Valor | Evaluación |
-|----------------|-------|------------|
-| **Precio** | $400,000-$500,000 CLP [4] | ✅ Dentro de presupuesto |
-| **Succión** | 4,000 Pa [4] | ✅ Adecuado |
-| **Navegación** | vSLAM + cámara PrecisionVision [4] | ✅ Buena |
-| **Smart Home** | Alexa, Google [4] | ✅ Excelente integración |
-| **Chile** | ✅✅ MEJOR soporte local [4] | ✅✅ Garantía real |
+| Especificación | Valor                              | Evaluación              |
+| -------------- | ---------------------------------- | ----------------------- |
+| **Precio**     | $400,000-$500,000 CLP [4]          | ✅ Dentro de presupuesto |
+| **Succión**    | 4,000 Pa [4]                       | ✅ Adecuado              |
+| **Navegación** | vSLAM + cámara PrecisionVision [4] | ✅ Buena                 |
+| **Smart Home** | Alexa, Google [4]                  | ✅ Excelente integración |
+| **Chile**      | ✅✅ MEJOR soporte local [4]         | ✅✅ Garantía real        |
 
 **Por qué Tier B:** Fregado básico (mopa fija) [4], pero la mejor garantía y soporte en Chile. Reportes de problemas WiFi/carga [W19].
 
@@ -223,13 +223,13 @@
 
 #### Ecovacs Deebot N20e Plus - **MÁXIMA POTENCIA**
 
-| Especificación | Valor | Evaluación |
-|----------------|-------|------------|
-| **Precio** | $390,000-$420,000 CLP [7] | ✅ Buen precio |
-| **Succión** | 8,000-10,000 Pa [7] | ⚠️ Muy alta |
-| **Batería** | 300 min (~5h) [7] | ✅✅ Excepcional |
-| **Fregado** | OZMO 3 niveles [7] | ✅ Control adecuado |
-| **Chile** | Importación [5][7] | ⚠️ Sin soporte local |
+| Especificación | Valor                     | Evaluación          |
+| -------------- | ------------------------- | ------------------- |
+| **Precio**     | $390,000-$420,000 CLP [7] | ✅ Buen precio       |
+| **Succión**    | 8,000-10,000 Pa [7]       | ⚠️ Muy alta          |
+| **Batería**    | 300 min (~5h) [7]         | ✅✅ Excepcional      |
+| **Fregado**    | OZMO 3 niveles [7]        | ✅ Control adecuado  |
+| **Chile**      | Importación [5][7]        | ⚠️ Sin soporte local |
 
 **Por qué Tier B:** Excelente autonomía (550m² teóricos) [7], pero solo importación y succión quizás excesiva para vinílico.
 
@@ -237,22 +237,22 @@
 
 ### Tier C: Opciones Económicas Funcionales
 
-| Modelo | Precio | Limitación Principal |
-|--------|--------|---------------------|
-| Xiaomi Vacuum Mop 2 Ultra | ~$350,000 [5] | Fregado vibratorio, no giratorio [5] |
-| Dreame D9 Max Gen 2 | $340,000-$370,000 [7] | Sin autovaciado, solo importación [5][7] |
-| Xiaomi Robot Vacuum S20 | ~$180,000 [5] | Sin base automática [5] |
+| Modelo                    | Precio                | Limitación Principal                     |
+| ------------------------- | --------------------- | ---------------------------------------- |
+| Xiaomi Vacuum Mop 2 Ultra | ~$350,000 [5]         | Fregado vibratorio, no giratorio [5]     |
+| Dreame D9 Max Gen 2       | $340,000-$370,000 [7] | Sin autovaciado, solo importación [5][7] |
+| Xiaomi Robot Vacuum S20   | ~$180,000 [5]         | Sin base automática [5]                  |
 
 ---
 
 ### Tier D: No Recomendados para Tu Caso
 
-| Modelo | Precio | Por qué no |
-|--------|--------|------------|
-| Lefant M1 | ~$150,000 [5] | Marca desconocida, mopa fija, sin autovaciado [5] |
-| Cecotec Conga 2490 | $120,000-$150,000 [6] | Navegación básica giroscópica, soporte deficiente [W20] |
-| iRobot Combo i5+ | ~$350,000 [5][7] | Batería 75 min < 90 min requeridos [7] |
-| Eufy G10 Hybrid | $120,000-$180,000 [5][7] | Batería 80 min < 90 min, sin LiDAR [7] |
+| Modelo             | Precio                   | Por qué no                                              |
+| ------------------ | ------------------------ | ------------------------------------------------------- |
+| Lefant M1          | ~$150,000 [5]            | Marca desconocida, mopa fija, sin autovaciado [5]       |
+| Cecotec Conga 2490 | $120,000-$150,000 [6]    | Navegación básica giroscópica, soporte deficiente [W20] |
+| iRobot Combo i5+   | ~$350,000 [5][7]         | Batería 75 min < 90 min requeridos [7]                  |
+| Eufy G10 Hybrid    | $120,000-$180,000 [5][7] | Batería 80 min < 90 min, sin LiDAR [7]                  |
 
 ---
 
@@ -260,22 +260,22 @@
 
 ### Retailers Recomendados
 
-| Tienda | Marcas Disponibles | Ventajas |
-|--------|-------------------|----------|
-| **Falabella** | Roborock, Xiaomi, iRobot | Garantía local, cuotas |
-| **Ripley** | Roborock, Xiaomi, iRobot | Ofertas frecuentes |
-| **Paris** | Xiaomi, iRobot | Despacho rápido |
-| **MercadoLibre** | Todas | Mayor variedad, importadores |
-| **KineStore.cl** | Roborock, Dreame, Xiaomi | Especializado, soporte técnico |
-| **Xiaomi Store Chile** | Xiaomi | Oficial, garantía directa |
+| Tienda                 | Marcas Disponibles       | Ventajas                       |
+| ---------------------- | ------------------------ | ------------------------------ |
+| **Falabella**          | Roborock, Xiaomi, iRobot | Garantía local, cuotas         |
+| **Ripley**             | Roborock, Xiaomi, iRobot | Ofertas frecuentes             |
+| **Paris**              | Xiaomi, iRobot           | Despacho rápido                |
+| **MercadoLibre**       | Todas                    | Mayor variedad, importadores   |
+| **KineStore.cl**       | Roborock, Dreame, Xiaomi | Especializado, soporte técnico |
+| **Xiaomi Store Chile** | Xiaomi                   | Oficial, garantía directa      |
 
 ### Precios Actuales Detectados (Nov 2024)
 
-| Modelo | Precio Rango | Fuente |
-|--------|-------------|--------|
-| Xiaomi X20+ | $389,990 - $449,990 | Ripley, Ofertitas [Web] |
-| Roborock Q8 Max+ | ~$600,000 | Distribuidores [8] |
-| iRobot Combo j5+ | $400,000 - $500,000 | Retail [4] |
+| Modelo           | Precio Rango        | Fuente                  |
+| ---------------- | ------------------- | ----------------------- |
+| Xiaomi X20+      | $389,990 - $449,990 | Ripley, Ofertitas [Web] |
+| Roborock Q8 Max+ | ~$600,000           | Distribuidores [8]      |
+| iRobot Combo j5+ | $400,000 - $500,000 | Retail [4]              |
 
 ---
 
