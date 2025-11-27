@@ -307,15 +307,15 @@ Elige este si:
 ## 📚 Referencias
 
 ### Documentos Fuente
-[1]: source_docs/Alternativas_con_Mejor_Fregado_para_Manchas_Dificiles.md
-[2]: source_docs/Alternativas_de_Robots_Aspiradores_Friegasuelos_con_Mejor_Fregado.md
-[3]: source_docs/Comparativa_de_Robots_Aspiradores_Mopa_alternativas_bajo_750000_CLP.md
-[4]: source_docs/Comparativa_tecnica_Roborock_Q8_Max_vs_Xiaomi_X20_Max_vs_Roomba_Combo_j5_iRobot.md
-[5]: source_docs/Mejores_Robots_Aspiradores_para_Pisos_Vinilicos_Chile_Presupuesto_650000_CLP.md
-[6]: source_docs/Arbol_de_Decision_Elegir_el_Mejor_Robot_Aspirador_para_Piso_Vinilico_Chile_2025.md
-[7]: source_docs/Evaluacion_de_Robots_Aspiradores_para_Pisos_Vinilicos_en_Chile_2025.md
-[8]: source_docs/Arbol-de-decisión-answer.md
-[9]: source_docs/evaluation_xiaomi_x20_max.md
+[1]: ../source_docs/Alternativas_con_Mejor_Fregado_para_Manchas_Dificiles.md
+[2]: ../source_docs/Alternativas_de_Robots_Aspiradores_Friegasuelos_con_Mejor_Fregado.md
+[3]: ../source_docs/Comparativa_de_Robots_Aspiradores_Mopa_alternativas_bajo_750000_CLP.md
+[4]: ../source_docs/Comparativa_tecnica_Roborock_Q8_Max_vs_Xiaomi_X20_Max_vs_Roomba_Combo_j5_iRobot.md
+[5]: ../source_docs/Mejores_Robots_Aspiradores_para_Pisos_Vinilicos_Chile_Presupuesto_650000_CLP.md
+[6]: ../source_docs/Arbol_de_Decision_Elegir_el_Mejor_Robot_Aspirador_para_Piso_Vinilico_Chile_2025.md
+[7]: ../source_docs/Evaluacion_de_Robots_Aspiradores_para_Pisos_Vinilicos_en_Chile_2025.md
+[8]: ../source_docs/Arbol-de-decisión-answer.md
+[9]: ../source_docs/evaluation_xiaomi_x20_max.md
 
 ### Fuentes Web
 [W1]: Dreame L10s Ultra official specs
